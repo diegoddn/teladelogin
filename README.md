@@ -1,6 +1,6 @@
 #Tela de Login
 
-**Acesse aqui:** [Tela de Losin](https://teladelogin-blue.vercel.app/)
+**Acesse aqui:** [Tela de Login](https://teladelogin-blue.vercel.app/)
 
 # React + Vite
 
