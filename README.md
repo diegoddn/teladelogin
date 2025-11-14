@@ -1,6 +1,89 @@
-# Tela de Login
+## Tela de Login
 
-**Acesse aqui:** [Tela de Login](https://teladelogin-blue.vercel.app/)
+## 🎯 Descrição
+
+A Tela de Login é uma aplicação web desenvolvida para simular o fluxo de autenticação em uma interface moderna e responsiva, usando React + Vite + ESLint. O objetivo é demonstrar boas práticas em front-end, estruturar componentes reutilizáveis e preparar um ambiente de projeto pronto para evoluir em escala.
+
+## 🚀 Tecnologias Utilizadas
+
+React (via Vite) → configuração moderna para aplicações React com recarga rápida (HMR)
+
+Vite → bundler/servidor de desenvolvimento leve e rápido
+
+ESLint → padronização e qualidade de código
+
+HTML5 → marcação semântica
+
+CSS3 → estilização e layout responsivo
+
+Git e GitHub → versionamento e controle de código
+
+## 🧩 Funcionalidades
+
+✅ Interface de login simples e estilizada
+
+✅ Layout responsivo que se adapta a diferentes tamanhos de tela
+
+✅ Estrutura de projeto moderna (React + Vite)
+
+✅ Configuração de linting com ESLint
+
+✅ Ambiente pronto para evoluções (como integração com backend/autenticação real)
+
+
+## 🔧 Como Executar o Projeto
+**1. Clone o repositório:**
+```
+git clone https://github.com/diegoddn/teladelogin.git
+```
+**2. Acesse a pasta do projeto:**
+```
+cd teladelogin
+```
+**3. Instale as dependências:**
+```
+npm install
+```
+**ou**
+```
+yarn install
+```
+**4.Inicie o servidor de desenvolvimento:**
+```
+npm run dev
+```
+**ou**
+```
+yarn dev
+```
+**5. Abra http://localhost:3000 (ou porta indicada no terminal) no navegador para visualizar a aplicação.**
+
+## 🌐 Deploy
+A aplicação está hospedada online em: [Tela de Login – Visualizar Deploy](https://teladelogin-blue.vercel.app/)
+(Este link aponta para o deploy atual via Vercel)
+GitHub
+
+## 📈 Por que este projeto é relevante?
+Este projeto demonstra:
+
+Proficiência nas tecnologias modernas de front-end (React + Vite)
+
+Capacidade de estruturar interfaces responsivas e componentes reutilizáveis
+
+Uso de boas práticas de código e linting para manter qualidade
+
+Preparação para evoluções futuras, como integração com APIs, autenticação real e state management
+
+Autonomia em configurar e realizar deploy de aplicações frontend em ambiente real
+
+## 🔗 Links Importantes
+**📫 Contato:** [dhiego.natividade@hotmail.com](dhiego.natividade@hotmail.com)
+
+**💼 LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/diego-natividade-dev/)
+
+**🌐 Portfólio / GitHub:** [Meu GitHub](https://github.com/diegoddn)
+
+## ⭐ Se este projeto te inspirou, não esqueça de deixar uma star no repositório!
 
 # React + Vite
 
