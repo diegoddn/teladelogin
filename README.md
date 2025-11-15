@@ -18,6 +18,7 @@ CSS3 → estilização e layout responsivo
 
 Git e GitHub → versionamento e controle de código
 
+
 ## 🧩 Funcionalidades
 
 ✅ Interface de login simples e estilizada
@@ -29,6 +30,27 @@ Git e GitHub → versionamento e controle de código
 ✅ Configuração de linting com ESLint
 
 ✅ Ambiente pronto para evoluções (como integração com backend/autenticação real)
+
+
+## 📂 Estrutura do Projeto
+
+```
+TELADELOGIN/
+├── public/     
+├── src/
+│   ├── App.css/        
+│   ├── App.jsx/            
+│   ├── index.css/
+|   ├── Login.css
+│   └── main.jsx            
+├── .gitignore
+├── eslint.config.js# ponto de entrada da aplicação
+├── index.html
+├── package-lock.json
+├── package.json         
+├── README.md       
+└── vite.config.js              
+```
 
 
 ## 🔧 Como Executar o Projeto
@@ -58,10 +80,11 @@ yarn dev
 ```
 **5. Abra http://localhost:3000 (ou porta indicada no terminal) no navegador para visualizar a aplicação.**
 
+
 ## 🌐 Deploy
 A aplicação está hospedada online em: [Tela de Login – Visualizar Deploy](https://teladelogin-blue.vercel.app/)
 (Este link aponta para o deploy atual via Vercel)
-GitHub
+
 
 ## 📈 Por que este projeto é relevante?
 Este projeto demonstra:
@@ -76,6 +99,7 @@ Preparação para evoluções futuras, como integração com APIs, autenticaçã
 
 Autonomia em configurar e realizar deploy de aplicações frontend em ambiente real
 
+
 ## 🔗 Links Importantes
 **📫 Contato:** [dhiego.natividade@hotmail.com](dhiego.natividade@hotmail.com)
 
@@ -84,6 +108,7 @@ Autonomia em configurar e realizar deploy de aplicações frontend em ambiente r
 **🌐 Portfólio / GitHub:** [Meu GitHub](https://github.com/diegoddn)
 
 ## ⭐ Se este projeto te inspirou, não esqueça de deixar uma star no repositório!
+
 
 # React + Vite
 
