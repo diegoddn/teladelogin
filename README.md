@@ -36,20 +36,23 @@ Git e GitHub → versionamento e controle de código
 
 ```
 TELADELOGIN/
-├── public/     
+├── node_modules/                # Dependências instaladas pelo npm
+├── public/                      # Arquivos públicos acessíveis diretamente
 ├── src/
-│   ├── App.css/        
-│   ├── App.jsx/            
-│   ├── index.css/
-|   ├── Login.css
-│   └── main.jsx            
-├── .gitignore
-├── eslint.config.js# ponto de entrada da aplicação
-├── index.html
-├── package-lock.json
-├── package.json         
-├── README.md       
-└── vite.config.js              
+│   ├── assets/                  # Imagens, ícones ou outros arquivos estáticos
+│   ├── App.css                  # Estilos globais do App
+│   ├── App.jsx                  # Componente principal da aplicação
+│   ├── index.css                # Estilos base da aplicação
+│   ├── Login.css                # Estilos específicos da página de Login
+│   ├── main.jsx                 # Ponto de entrada do React (renderização)
+│
+├── .gitignore                   # Arquivos ignorados pelo Git
+├── eslint.config.js             # Configurações do ESLint
+├── index.html                   # Arquivo HTML principal
+├── package-lock.json            # Registro de versões exatas das dependências
+├── package.json                 # Dependências e scripts do projeto
+├── README.md                    # Documentação do projeto
+└── vite.config.js               # Configurações do Vite
 ```
 
 
