@@ -106,9 +106,9 @@ Autonomia em configurar e realizar deploy de aplicações frontend em ambiente r
 ## 🔗 Links Importantes
 **📫 Contato:** [dhiego.natividade@hotmail.com](dhiego.natividade@hotmail.com)
 
-**💼 LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/diego-natividade-dev/)
+**💼 LinkedIn:** [https://www.linkedin.com/in/diego-natividade-dev/](https://www.linkedin.com/in/diego-natividade-dev/)
 
-**🌐 Portfólio / GitHub:** [Meu GitHub](https://github.com/diegoddn)
+**🌐 Portfólio / GitHub:** [https://github.com/diegoddn](https://github.com/diegoddn)
 
 ## ⭐ Se este projeto te inspirou, não esqueça de deixar uma star no repositório!
 
